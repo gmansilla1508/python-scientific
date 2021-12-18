@@ -15,6 +15,7 @@ dependencies:
   - cython
   - lxml
   - seaborn
+  - umap
   - mkl
   - pyqt
   - altair
