@@ -45,5 +45,6 @@ dependencies:
   - plotly
   - h5py
   - pillow
-prefix: /anaconda2/envs/mne3
+  - peak-detect
+  prefix: /anaconda2/envs/mne3
 
